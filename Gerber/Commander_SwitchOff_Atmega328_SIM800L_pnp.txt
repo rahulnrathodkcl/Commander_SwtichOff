@@ -1,0 +1,90 @@
+*Pick And Place List
+*Company=
+*Author=
+*eMail=
+*
+*Project=Commander_SwitchOff_Atmega328_SIM800L
+*Date=10:40:33
+*CreatedBy=Fritzing 0.9.3b.04.19.5c895d327c44a3114e5fcc9d8260daf0cbb52806
+*
+*
+*Coordinates in mm, always center of component
+*Origin 0/0=Lower left corner of PCB
+*Rotation in degree (0-360, math. pos.)
+*
+*No;Value;Package;X;Y;Rotation;Side;Name
+1;;;31.053;-46.0901;0;Bottom;SIM800L_20MM
+2;;;80.3826;-17.9088;0;Bottom;TXT8
+3;;;108.384;-3.82079;0;Bottom;Hole4
+4;;;58.2578;-20.0973;0;Bottom;TXT8
+5;;jst-2-pth;24.1339;-18.1708;0;Bottom;MOTOR
+6;;[THT];86.1288;-20.2211;0;Bottom;RESET
+7;;;11.7645;-48.7255;0;Bottom;TXT8
+8;3.3k;THT;48.9839;-18.5707;180;Bottom;R9
+9;;;67.8537;-37.8954;0;Bottom;Jumper1
+10;100k;THT;48.9839;-15.5706;180;Bottom;R8
+11;;;108.384;-101.071;0;Bottom;Hole2
+12;;THT;40.5285;-73.3206;90;Bottom;L293D
+13;;;96.8961;-86.0741;180;Bottom;Power plug1
+14;;;60.8813;-26.6706;0;Bottom;Jumper2
+15;10k;THT;92.0273;-14.028;0;Bottom;R7
+16;10k;THT;72.8774;-57.6079;-90;Bottom;R3
+17;;;58.5366;-71.4758;0;Bottom;TXT8
+18;;jst-3-pth;16.634;-18.1708;0;Bottom;RPM
+19;;;68.4621;-25.9045;0;Bottom;TXT8
+20;;THT;42.7115;-91.5266;-90;Bottom;SLOW FAST
+21;100 nF;100 mil [THT, multilayer];14.1585;-42.0707;180;Bottom;C11
+22;;;58.1607;-73.8341;0;Bottom;TXT8
+23;;os;79.8773;-83.0085;0;Bottom;ON/OFF
+24;22pF;100 mil [THT, multilayer];79.3787;-39.4455;90;Bottom;C5
+25;0.47mF;200 mil [THT, electrolytic];84.8374;-56.5278;0;Bottom;C4
+26;;;70.3994;-90.9583;0;Bottom;TXT8
+27;220;THT;65.1939;-86.5706;0;Bottom;C1
+28;;;68.1708;-44.2284;0;Bottom;TXT8
+29;;;59.1169;-32.7473;0;Bottom;TXT8
+30;;THT;77.3788;-19.4407;180;Bottom;J59
+31;;jst-2-pth;99.5287;-38.5207;-90;Bottom;BUZZER
+32;;;21.739;-86.2618;90;Bottom;TXT6
+33;;;82.3308;-24.643;0;Bottom;TXT8
+34;;dip;68.1095;-32.0603;180;Bottom;Sensor IC
+35;;;11.7645;-46.4931;0;Bottom;TXT8
+36;;THT;86.3375;-38.2381;-90;Bottom;XTAL
+37;1k;THT;46.2139;-57.5707;180;Bottom;R11
+38;22pF;100 mil [THT, multilayer];79.3787;-34.4454;90;Bottom;C6
+39;;THT;15.284;-47.3009;180;Bottom;J61
+40;;TO92 [THT];99.2844;-30.9097;180;Bottom;Q2
+41;400;THT;83.9588;-48.7704;180;Bottom;R2
+42;100 nF;100 mil [THT, multilayer];79.6075;-65.0281;180;Bottom;C3
+43;1k;THT;46.8839;-38.9906;-90;Bottom;R10
+44;;;74.8872;-14.4042;-90;Bottom;TXT8
+45;100 nF;100 mil [THT, multilayer];11.364;-23.3207;180;Bottom;C9
+46;0.47mF;200 mil [THT, electrolytic];12.674;-31.3206;180;Bottom;C10
+47;;5 mm [THT];98.8775;-52.3768;180;Bottom;LED1
+48;100 nF;100 mil [THT, multilayer];75.4067;-31.9006;90;Bottom;C7
+49;;;82.3085;-27.1427;0;Bottom;TXT8
+50;;THT;76.3786;-43.9007;180;Bottom;J60
+51;;;80.0139;-42.6798;0;Bottom;TXT8
+52;;THT;54.3786;-73.2408;180;Bottom;J62
+53;;;3.63398;-3.82079;0;Bottom;Hole3
+54;;;79.9916;-45.123;0;Bottom;TXT8
+55;;;3.63398;-101.071;0;Bottom;Hole1
+56;;;18.5211;-79.3469;90;Bottom;TXT7
+57;4.7k;THT;71.974;-90.3206;180;Bottom;D1
+58;3.3k;THT;65.0037;-62.1079;-90;Bottom;R4
+59;1mF;200 mil [THT, electrolytic];63.844;-79.3206;180;Bottom;C2
+60;;THT;77.3786;-25.9008;180;Bottom;J63
+61;;;80.0962;-20.5044;0;Bottom;TXT8
+62;;TO92 [THT];69.147;-61.9392;90;Bottom;Q1
+63;1k;THT;93.3774;-55.7179;90;Bottom;R1
+64;;jst-4-pth;34.634;-18.2951;0;Bottom;TEMP
+65;33µF;100 mil [THT, electrolytic];52.3838;-29.5508;-90;Bottom;C8
+66;1k;THT;92.384;-40.1508;-90;Bottom;R6
+67;;;95.7069;-95.9567;0;Bottom;TXT8
+68;5V;to-220-alt;92.1145;-72.3206;90;Bottom;7805
+69;;;21.9134;-72.6803;90;Bottom;TXT6
+70;10k;THT;61.6339;-62.1506;90;Bottom;R5
+71;;TO92 [THT];35.3844;-43.6596;180;Bottom;Q3
+72;;jst-3-pth;99.0338;-62.0707;-90;Bottom;SW REG.
+73;;;18.3467;-79.2442;90;Bottom;TXT7
+74;;avr icsp;53.4708;-43.8631;180;Bottom;ICSP
+75;;;40.3786;-74.0106;0;Bottom;Pad5
